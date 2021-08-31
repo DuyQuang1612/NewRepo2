@@ -7,6 +7,6 @@ namespace BTL1.Models
 {
     public class Class1
     {
-        //abcdef
+        //dadkas
     }
 }
