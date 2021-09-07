@@ -7,7 +7,7 @@ namespace PTPMQL.Models
 {
     public class giaiPT
     {
-        double giaiPTbac1(double a,double b)
+      public  double giaiPTbac1(double a,double b)
         {
             double x=0;
              x= -b/a;
