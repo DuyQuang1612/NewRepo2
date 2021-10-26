@@ -149,4 +149,4 @@ namespace PTPMQL.Controllers
         }
     }
 }
-//khachhangController.cs111
+//khachhangController.cs1111
